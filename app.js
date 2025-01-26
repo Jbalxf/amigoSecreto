@@ -65,7 +65,7 @@ function sortearAmigo(){
         
         resultadoSorteo.appendChild(li); // Limpiar el valor del input
 
-    console.log(amigoSeleccionado);
+   // console.log(amigoSeleccionado);
 }
 
 function limpiarInput(){
